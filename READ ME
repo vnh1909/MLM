@@ -1,2 +1,2 @@
-memdata includes all the necessary preprocessing and produces data frames for the mean and standard deviation of deltaR
+memdata includes all the necessary preprocessing steps and produces data frames for the mean and standard deviation of deltaR
 mean_ml and std_ml contains the model for the mean and standard deviation of deltaR
